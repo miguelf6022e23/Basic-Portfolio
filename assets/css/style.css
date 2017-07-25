@@ -1,0 +1,34 @@
+#name{
+	color:#ffffff;
+	background-color: #4aaaa5;
+	float: left;
+	left: 0px;
+	padding: 20px;
+	font-size: 20;
+	margin: 0 auto;
+}
+
+#bannerLinks{
+	float: right;
+	right: 0px;
+	color: #777777;
+	margin: 0 auto;
+}
+
+#line1{
+	clear: both;
+	margin: 0 auto;
+	position: relative;
+	top: 20px;
+	top: -2px;
+}
+
+header{
+	width: 100%;
+}
+
+h2{
+	top: 20px;
+	position: relative;
+	color: #4aaaa5;
+}
