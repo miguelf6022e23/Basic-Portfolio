@@ -5,7 +5,7 @@
 	left: 0px;
 	padding: 20px;
 	font-size: 20;
-	margin: 0 auto;
+	margin-left: 10%;
 }
 
 #bannerLinks{
@@ -13,6 +13,14 @@
 	right: 0px;
 	color: #777777;
 	margin: 0 auto;
+	padding: 20px;
+	margin-right: 10%;
+}
+
+a{
+	color: #777777;
+	text-decoration: none;
+	padding-right: 10px;
 }
 
 #line1{
@@ -21,6 +29,7 @@
 	position: relative;
 	top: 20px;
 	top: -2px;
+	
 }
 
 header{
